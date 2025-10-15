@@ -62,11 +62,13 @@ uv run jupyter lab notebook.ipynb
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{meral2024clora,
-  title={Clora: A contrastive approach to compose multiple lora models},
-  author={Meral, Tuna Han Salih and Simsar, Enis and Tombari, Federico and Yanardag, Pinar},
-  journal={arXiv preprint arXiv:2403.19776},
-  year={2024}
+@InProceedings{Meral_2025_ICCV,
+    author    = {Meral, Tuna Han Salih and Simsar, Enis and Tombari, Federico and Yanardag, Pinar},
+    title     = {Contrastive Test-Time Composition of Multiple LoRA Models for Image Generation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {18090-18100}
 }
 ```
 
